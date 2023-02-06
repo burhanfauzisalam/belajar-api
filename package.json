@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/burhanfauzisalam/belajar-api/issues"
   },
-  "homepage": "https://github.com/burhanfauzisalam/belajar-api#readme"
+  "homepage": "https://github.com/burhanfauzisalam/belajar-api#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
